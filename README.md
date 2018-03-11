@@ -1,2 +1,2 @@
-# ugocs
+# UGOCS
 Unity GameObject Component System
